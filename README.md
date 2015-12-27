@@ -18,6 +18,11 @@ Information
 * SFApps Blog - <http://blog.sfapps.jp/>
 * Play Store - <https://play.google.com/store/apps/developer?id=SFApps>
 
+Donation (PayPal)
+=======
+
+<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&amp;business=AKYSLXFSF75AU&amp;lc=en_US&amp;item_name=Donation" target="_blank"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" alt="PayPal - The safer, easier way to pay online!" /></a>
+
 License
 =======
 
